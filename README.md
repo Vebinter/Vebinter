@@ -22,7 +22,7 @@
 ### 📱 SecureShield Mobile (Android)
 Локальный AI-комплекс кибербезопасности. 0 облака, 100%% приватность.
 
-**[⬇️ Скачать APK (Android)](https://github.com/Vebinter/secureshield-mobile/releases/latest)**
+**[⬇️ Скачать APK (Android)](https://vebinter.github.io/Vebinter/download.html)**
 
 ### 🖥️ SecureShield Desktop (Linux)
 Linux Security Suite — 16 модулей кибербезопасности
@@ -52,7 +52,7 @@ Linux Security Suite — 16 модулей кибербезопасности
 ## ⚡ Установка
 
 ### Android (Mobile):
-1. [Скачайте APK](https://github.com/Vebinter/secureshield-mobile/releases/latest)
+1. [Скачайте APK](https://vebinter.github.io/Vebinter/download.html)
 2. Разрешите установку из неизвестных источников
 3. Установите и запустите
 4. Trial: 7 дней бесплатно
