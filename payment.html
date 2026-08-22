@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Оплата SecureShield</title>
+<style>
+body{font-family:Arial;background:#1a1a2e;color:#eee;padding:40px;text-align:center}
+.card{background:#16213e;border-radius:16px;padding:30px;margin:20px auto;max-width:500px}
+.num{font-size:32px;letter-spacing:4px;color:#4ecca3;margin:20px 0}
+.btn{background:#4ecca3;color:#000;border:none;padding:15px 30px;border-radius:8px;font-size:18px;cursor:pointer}
+.btn:hover{background:#38b28a}
+.ok{color:#4ecca3;margin-top:10px;display:none}
+h1{color:#4ecca3}
+ul{text-align:left;margin-top:30px}
+li{margin:10px 0}
+</style>
+</head>
+<body>
+<h1>💳 Оплата SecureShield</h1>
+<div class="card">
+<h2>Карта ЦУПИС</h2>
+<div class="num">2204 1801 2541 2346</div>
+<button class="btn" onclick="copyCard()">📋 Скопировать номер карты</button>
+<div class="ok" id="msg">✅ Скопировано!</div>
+</div>
+<ul>
+<li>💳 Карта ЦУПИС: <b>2204 1801 2541 2346</b></li>
+<li>🏦 Сбербанк, Тинькофф, ЮMoney</li>
+<li>₿ Криптовалюта (USDT, BTC)</li>
+</ul>
+<script>
+function copyCard(){navigator.clipboard.writeText('2204180125412346');document.getElementById('msg').style.display='block';setTimeout(function(){document.getElementById('msg').style.display='none'},3000)}
+</script>
+<p style="color:#888;margin-top:40px">© 2026 Олег Беляев</p>
+</body>
+</html>

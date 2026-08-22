@@ -30,7 +30,7 @@ Linux Security Suite — 16 модулей кибербезопасности
 | Ссылка | Описание |
 |--------|----------|
 | 📦 [Скачать .deb](https://github.com/Vebinter/secureshield-download/raw/master/secureshield_1.0_amd64.deb) | Установщик SecureShield v1.0 |
-| 🌐 [Сайт продукта](https://vebinter.github.io) | Описание, тарифы, оплата |
+| 🌐 [Сайт продукта](https://vebinter.github.io/Vebinter/) | Описание, тарифы, оплата |
 | 📩 [Telegram](https://t.me/oleg_belyaev_devops) | Поддержка, Trial ключ |
 
 ---
@@ -86,7 +86,7 @@ Linux Security Suite — 16 модулей кибербезопасности
 | Канал | Ссылка |
 |-------|--------|
 | Telegram | [@oleg_belyaev_devops](https://t.me/oleg_belyaev_devops) |
-| Сайт | [vebinter.github.io](https://vebinter.github.io) |
+| Сайт | [vebinter.github.io](https://vebinter.github.io/Vebinter/) |
 | Скачать | [secureshield-download](https://github.com/Vebinter/secureshield-download) |
 | Оплата | Карта ЦУПИС: `2204 1801 2541 2346` |
 
